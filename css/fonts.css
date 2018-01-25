@@ -1,0 +1,55 @@
+@font-face {
+  font-family: Lato;
+  /* Имя шрифта */
+  src: url('..//fonts/lato-regular.eot');
+  /* IE9 Compat Modes */
+  src: url('..//fonts/lato-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('..//fonts/lato-regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('..//fonts/lato-regular.woff') format('woff'), /* Pretty Modern Browsers */
+  url('..//fonts/lato-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('..//fonts/lato-regular.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Lato;
+  /* Имя шрифта */
+  src: url('..//fonts/lato-light.eot');
+  /* IE9 Compat Modes */
+  src: url('..//fonts/lato-light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('..//fonts/lato-light.woff2') format('woff2'), /* Super Modern Browsers */
+  url('..//fonts/lato-light.woff') format('woff'), /* Pretty Modern Browsers */
+  url('..//fonts/lato-light.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('..//fonts/lato-light.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: Lato;
+  /* Имя шрифта */
+  src: url('..//fonts/lato-bold.eot');
+  /* IE9 Compat Modes */
+  src: url('..//fonts/lato-bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('..//fonts/lato-bold.woff2') format('woff2'), /* Super Modern Browsers */
+  url('..//fonts/lato-bold.woff') format('woff'), /* Pretty Modern Browsers */
+  url('..//fonts/lato-bold.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('..//fonts/lato-bold.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Lato;
+  /* Имя шрифта */
+  src: url('..//fonts/lato-heavy.eot');
+  /* IE9 Compat Modes */
+  src: url('..//fonts/lato-heavy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('..//fonts/lato-heavy.woff2') format('woff2'), /* Super Modern Browsers */
+  url('..//fonts/lato-heavy.woff') format('woff'), /* Pretty Modern Browsers */
+  url('..//fonts/lato-heavy.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('..//fonts/lato-heavy.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 800;
+}
